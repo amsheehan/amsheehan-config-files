@@ -1,4 +1,4 @@
 tmux
 ====
 
-tmux dot conf
+amsheehan's tmux .conf file
