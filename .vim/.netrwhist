@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/alexsheehan/Desktop/hackerati/themes/bartik/color'
+let g:netrw_dirhist_2='/Users/alexsheehan/Desktop/hackerati/themes/bartik/templates'
+let g:netrw_dirhist_3='/Users/alexsheehan/Sites/sneaker-bee/application/views'
+let g:netrw_dirhist_4='/Users/alexsheehan/.vim'
+let g:netrw_dirhist_5='/Users/alexsheehan/Sites/hack-custom/sites/all/themes/hackerati/js'
+let g:netrw_dirhist_6='/Users/alexsheehan/.vim'
