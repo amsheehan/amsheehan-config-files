@@ -1,4 +1,4 @@
 tmux
 ====
 
-amsheehan's tmux .conf file
+amsheehan's config files
